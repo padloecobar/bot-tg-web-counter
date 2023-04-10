@@ -1,5 +1,7 @@
 .idea
-.idea/**
+.idea/*
+.idea/**/**
+.idea/inspectionProfiles
 /.idea/*
 /.idea/misc.xml
 /.idea/vcs.xml
